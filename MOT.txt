@@ -1,6 +1,7 @@
 -- removed horror mode due to lag.
 -- added shop.
 -- fixed bugs.
+-- Added Cosmetics to shop.
 
    please read!!!    please read!!!    please read!!!
 CHIMP AND CHASE USE'S A FREE PRODUCT FROM
